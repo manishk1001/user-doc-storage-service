@@ -27,7 +27,8 @@ A Spring Boot RESTful service that allows users to upload and download documents
 - SpringDoc OpenAPI (Swagger UI)  
 - JUnit 5 + Mockito  
 - Gradle  
-- Lombok  
+- Lombok
+- Docker
 
 ---
 
